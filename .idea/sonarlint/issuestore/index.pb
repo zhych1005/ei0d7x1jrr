@@ -41,3 +41,5 @@ Q.idea/sonarlint/securityhotspotstore/d/5/d54af0e30d81ce977c1b7fa27b46f517902612
 Q.idea/sonarlint/securityhotspotstore/c/4/c4c76c490e4218b04a38cb0fd1f2ad8c9145f84d,0/c/0c0a576d76cb4414a10b483ad9a81feb283b25d8
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+^
+.src/main/java/com/zhych/client/QwenClient.java,d/a/daa6fa933fae271b5b6692fc8144d9ef153cf075
