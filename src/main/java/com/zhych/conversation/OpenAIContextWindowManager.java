@@ -2,6 +2,9 @@ package com.zhych.conversation;
 
 import com.zhych.context.BaseContextWindowManager;
 
+/**
+ * Javadoc OpenAI 窗口管理器
+ */
 public class OpenAIContextWindowManager extends BaseContextWindowManager {
 
     protected boolean includeSystemPrompt;

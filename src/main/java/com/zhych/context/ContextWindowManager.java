@@ -1,5 +1,8 @@
 package com.zhych.context;
 
+/**
+ * Javadoc ContextWindowManager
+ */
 public interface ContextWindowManager {
     void addUserMessage(String message);
     void addAssistantMessage(String message);

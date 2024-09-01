@@ -3,6 +3,9 @@ package com.zhych.context;
 import com.zhych.conversation.OpenAIContextWindowManager;
 import com.zhych.conversation.QwenContextWindowManager;
 
+/**
+ * Javadoc 上下文窗口管理器工厂类
+ */
 public class ContextWindowManagerFactory {
     /**
      * 根据模型类型、窗口大小、API 密钥和是否包括系统提示词来创建上下文窗口管理器。

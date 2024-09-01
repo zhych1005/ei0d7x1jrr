@@ -1,6 +1,4 @@
 
-Q
-!src/main/java/com/zhych/Main.java,1/8/184447e93dc34101b3b09da13fa533d5550c9b84
 f
 6src/main/java/com/zhych/model/ConversationHistory.java,9/4/9435fb7bd40842191a75dddaaa2af6a32aeb9ba9
 p
@@ -15,30 +13,10 @@ t
 Dsrc/main/java/com/zhych/conversation/OpenAIContextWindowManager.java,d/5/d57d0488f38c8e93a2a50db92c60e4b3baad9c0e
 r
 Bsrc/main/java/com/zhych/conversation/QwenContextWindowManager.java,c/9/c936a65c709c6026815cae67474bc1e5371e439d
-w
-G.idea/sonarlint/issuestore/d/5/d54af0e30d81ce977c1b7fa27b46f51790261277,7/2/726fe66ab2f7204680548161a3a0057128b7028e
-Å
-Q.idea/sonarlint/securityhotspotstore/2/3/23b90c9e6d6bbd7c1a70f2b43cf5298d6bdbb53e,9/e/9ef878c7e730df8c37040e47c9728cd09c183c2d
-Å
-Q.idea/sonarlint/securityhotspotstore/1/2/129697bdfd44356fc42ee50540d739f5b4b13b42,a/9/a9e580646165ff71938b9e6eb71e51358a5eaaf6
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
-w
-G.idea/sonarlint/issuestore/c/4/c4c76c490e4218b04a38cb0fd1f2ad8c9145f84d,3/7/3701ca65fdf65f3714fd207233dc959b4bcab1fe
-w
-G.idea/sonarlint/issuestore/b/d/bd77e3e740c549c7114b766702a5b06349f2a4fd,6/6/66314eab1ad4c990b2aa0b2012ff0f0a8b98a1eb
-Å
-Q.idea/sonarlint/securityhotspotstore/d/9/d9b9907d8842adc4d3137e9534b6542a69640354,0/f/0fcbe974bf3119bb9a84b3db372dcd32ecb17f04
-Å
-Q.idea/sonarlint/securityhotspotstore/b/d/bd77e3e740c549c7114b766702a5b06349f2a4fd,3/c/3c740d49b298dea9009ab23a8468025999a0fe54
-Å
-Q.idea/sonarlint/securityhotspotstore/9/4/94690a2120c5074002fe7d1eaacd8f64d64aa94a,1/1/11fdd1626ff9910a85c555c0686bce50df09791e
-Å
-Q.idea/sonarlint/securityhotspotstore/d/5/d54af0e30d81ce977c1b7fa27b46f51790261277,e/2/e25500f3faf6e9be6a5abede083b8d15521254cf
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
-Å
-Q.idea/sonarlint/securityhotspotstore/c/4/c4c76c490e4218b04a38cb0fd1f2ad8c9145f84d,0/c/0c0a576d76cb4414a10b483ad9a81feb283b25d8
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 ^

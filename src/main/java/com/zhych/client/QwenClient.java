@@ -14,6 +14,9 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+ * Javadoc qwen客户端
+ */
 public class QwenClient {
 
     protected static LinkedList<Message> messageHistory = new LinkedList<>();

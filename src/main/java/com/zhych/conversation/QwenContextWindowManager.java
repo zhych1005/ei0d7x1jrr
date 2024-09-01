@@ -7,6 +7,9 @@ import com.zhych.client.QwenClient;
 import com.zhych.context.BaseContextWindowManager;
 import org.apache.commons.lang3.StringUtils;
 
+/**
+ * Javadoc QwenContextWindowManager
+ */
 public class QwenContextWindowManager extends BaseContextWindowManager {
 
     protected boolean includeSystemPrompt;

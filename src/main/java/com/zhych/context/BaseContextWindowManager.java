@@ -2,6 +2,10 @@ package com.zhych.context;
 
 import com.zhych.model.ConversationHistory;
 
+
+/**
+ * Javadoc 参数管理器抽象类
+ */
 public abstract class BaseContextWindowManager implements ContextWindowManager {
     public final ConversationHistory conversationHistory = new ConversationHistory();
     protected String apiKey;
